@@ -1,3 +1,9 @@
+How to Run?
+
+1. yarn install
+2. yarn start
+3. open any browser and navigate to localhost:5000
+
 Requirements
 1. This is a typeahead search. The search results should be displayed as user is typing.
 2. The implementation should be purely done in frontend using React.
