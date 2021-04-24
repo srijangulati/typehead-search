@@ -1,0 +1,18 @@
+.header {
+  font-size: 21px;
+  font-weight: bold;
+  margin: 12px;
+}
+
+input {
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid black;
+  font-size: 1.6rem;
+  outline: none;
+  margin: 12px;
+
+  &:focus {
+    outline: none;
+  }
+}
